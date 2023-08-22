@@ -31,7 +31,7 @@ After downloading the datasets with annotations, please declare the directory an
 *****************
 ## Get Started
 ### Evaluation
-**Model weights**: All the weights including the image backbone from SAM, audio backbone for VGGish and our pretrained models are obtained with the [link](https://sjtueducn-my.sharepoint.com/personal/jinxliu_sjtu_edu_cn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fjinxliu%5Fsjtu%5Fedu%5Fcn%2FDocuments%2Fshare%2FSAMA%2DAVS).
+**Model weights**: All the weights including the image backbone from SAM, audio backbone for VGGish and our pretrained models are obtained with the [link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/jinxliu_sjtu_edu_cn/Ejm_Lp4ZctZBnnrExc52-uYBqYwN8Y6CsE21Nc8GFQRVNA?e=t4Chgc).
 - Please place `vggish-10086976.pth` and `sam_vit_h_4b8939.pth` in `assets` sub-folder.
 - Please the pretrained model weights in `ckpts` sub-folder.
 
