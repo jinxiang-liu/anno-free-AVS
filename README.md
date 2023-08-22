@@ -21,7 +21,7 @@ pip install -r requirements.txt
 #### 1. Download the datasets 
 - AVSBench
     - Please refer to [https://github.com/OpenNLPLab/AVSBench](https://github.com/OpenNLPLab/AVSBench) to download the AVSBench dataset.
-    - Please download re-organized split files with the [link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/jinxliu_sjtu_edu_cn/Er7zTMpltupFjmbvaVYMKzQBeEhmJSzvv3hpSqPyNAQOPg?e=7vrIHc) which might be helpful.
+    - Please download re-organized split files with the [OneDrive link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/jinxliu_sjtu_edu_cn/Er7zTMpltupFjmbvaVYMKzQBeEhmJSzvv3hpSqPyNAQOPg?e=7vrIHc) which might be helpful.
 - AVS-Synthetic
     - Please download the dataset from [https://zenodo.org/record/8125822](https://zenodo.org/record/8125822).
 
@@ -31,7 +31,7 @@ After downloading the datasets with annotations, please declare the directory an
 *****************
 ## Get Started
 ### Evaluation
-**Model weights**: All the weights including the image backbone from SAM, audio backbone for VGGish and our pretrained models are obtained with the [link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/jinxliu_sjtu_edu_cn/Ejm_Lp4ZctZBnnrExc52-uYBqYwN8Y6CsE21Nc8GFQRVNA?e=t4Chgc).
+**Model weights**: All the weights including the image backbone from SAM, audio backbone for VGGish and our pretrained models are obtained with the [OneDrive link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/jinxliu_sjtu_edu_cn/Ejm_Lp4ZctZBnnrExc52-uYBqYwN8Y6CsE21Nc8GFQRVNA?e=t4Chgc).
 - Please place `vggish-10086976.pth` and `sam_vit_h_4b8939.pth` in `assets` sub-folder.
 - Please the pretrained model weights in `ckpts` sub-folder.
 
