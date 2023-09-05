@@ -92,7 +92,7 @@ def validate(loader, model):
         avg_meter_miou.add({'miou': miou})
         F_score = Eval_Fmeasure(pred_masks, gt_masks)
         avg_meter_F.add({'F_score': F_score})
-        print('n_iter: {}, iou: {}, F_score: {}'.format(idx, miou, F_score))
+        # print('n_iter: {}, iou: {}, F_score: {}'.format(idx, miou, F_score))
     
     miou = (avg_meter_miou.pop('miou'))
     F_score = (avg_meter_F.pop('F_score'))
