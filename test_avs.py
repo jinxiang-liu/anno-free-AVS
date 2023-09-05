@@ -86,7 +86,6 @@ def evaluate_avs_synthetic(loader, model, args):
         avg_meter_miou.add({'miou': miou})
         F_score = Eval_Fmeasure(pred_masks, gt_masks)
         avg_meter_F.add({'F_score': F_score})
-        print('n_iter: {}, iou: {}, F_score: {}'.format(idx, miou, F_score))
 
         if args.save_mask:
             assert bs == 1, "Please set batch_size to 1 when saving test masks!"
@@ -146,7 +145,6 @@ def evaluate_avs_S4(loader, model, args):
         avg_meter_miou.add({'miou': miou})
         F_score = Eval_Fmeasure(pred_masks, gt_masks)
         avg_meter_F.add({'F_score': F_score})
-        print('n_iter: {}, iou: {}, F_score: {}'.format(idx, miou, F_score))
 
         if args.save_mask:
             assert bs == 1, "Please set batch_size to 1 when saving test masks!"
