@@ -75,11 +75,12 @@ bash scripts/ms3_train.sh
 ***********
 ## Citation
 ```txt
-@article{liu2023annotation,
-title={Annotation-free Audio-Visual Segmentation},
-author={Liu, Jinxiang and Wang, Yu and Ju, Chen and Ma, Chaofan and Zhang, Ya and Xie, Weidi},
-journal={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-year={2024}
+@inproceedings{liu2024annotation,
+  title={Annotation-free audio-visual segmentation},
+  author={Liu, Jinxiang and Wang, Yu and Ju, Chen and Ma, Chaofan and Zhang, Ya and Xie, Weidi},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={5604--5614},
+  year={2024}
 }
 ```
 
