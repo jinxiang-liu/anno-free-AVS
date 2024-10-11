@@ -1,6 +1,6 @@
 # Annotation-free Audio-Visual Segmentation
 Official implementation of  [Annotation-free Audio-Visual Segmentation
-](https://arxiv.org/pdf/2305.11019v3.pdf).
+](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Annotation-Free_Audio-Visual_Segmentation_WACV_2024_paper.pdf).
 
 This paper has been accepted by **WACV 2024**, the project page is [https://jinxiang-liu.github.io/anno-free-AVS/](https://jinxiang-liu.github.io/anno-free-AVS/).
 
