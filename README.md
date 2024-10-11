@@ -5,7 +5,8 @@ Official implementation of  [Annotation-free Audio-Visual Segmentation
 This paper has been accepted by **WACV 2024**, the project page is [https://jinxiang-liu.github.io/anno-free-AVS/](https://jinxiang-liu.github.io/anno-free-AVS/).
 
 ![](assets/pipeline.png)
-
+**********
+![](assets/arch.png)
 ******************
 ## Requirements
 ### Installation
